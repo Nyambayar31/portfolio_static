@@ -1,0 +1,70 @@
+*{
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	list-style: none;
+	box-sizing: border-box;
+}
+body{
+	height: 100vh;
+	background: linear-gradient(
+		to bottom,
+		white 0%,
+		white 70%,
+		blueviolet 30%,
+		blueviolet 70%
+	);
+
+	
+	font-family: sans-serif;
+}
+nav{
+	background: blueviolet;
+	
+}
+label.port{
+	color: black;
+	font-size: 25px;
+	line-height: 80px;
+	padding: 0 100px;
+	font-weight: bold;
+
+
+}
+h1{
+	padding-top: 80px;
+	font-size: 40px;
+	font-weight: bold;
+	font-family: sans-serif;, 
+
+}
+h2{
+	font-weight: normal;
+}
+
+nav ul{
+	float: right;
+	margin-right:20px ;
+}
+nav ul li{
+	display: inline-block;
+	line-height: 80px;
+	margin: 0 5px;
+}
+nav ul li a{
+	color: black;
+
+}
+img{
+	height: 200px;
+	width: 200px;
+	position: absolute;
+	right: 580px;
+}
+h3{
+	font-size: 30px;
+	padding-top: 280px;
+
+}
+
+	
